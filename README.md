@@ -1,5 +1,5 @@
 # DataStructures_Algorithms
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A collection of recent LeetCode questions I have solved
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
