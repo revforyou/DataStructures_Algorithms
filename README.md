@@ -15,6 +15,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Binary Search
@@ -35,6 +36,7 @@ A collection of recent LeetCode questions I have solved
 ## Prefix Sum
 |  |
 | ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## String
@@ -45,6 +47,7 @@ A collection of recent LeetCode questions I have solved
 ## Simulation
 |  |
 | ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
