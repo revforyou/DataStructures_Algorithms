@@ -9,6 +9,7 @@ A collection of recent LeetCode questions I have solved
 | [0007-reverse-integer](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0007-reverse-integer) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
@@ -73,4 +74,8 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
