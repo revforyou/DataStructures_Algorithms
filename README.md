@@ -7,6 +7,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0007-reverse-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -19,6 +20,7 @@ A collection of recent LeetCode questions I have solved
 | [0015-3sum](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -116,4 +118,8 @@ A collection of recent LeetCode questions I have solved
 | [0015-3sum](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
