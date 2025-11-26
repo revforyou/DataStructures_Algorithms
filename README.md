@@ -27,6 +27,7 @@ A collection of recent LeetCode questions I have solved
 | [0704-binary-search](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0704-binary-search) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -101,6 +102,7 @@ A collection of recent LeetCode questions I have solved
 | [0036-valid-sudoku](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
