@@ -83,6 +83,7 @@ A collection of recent LeetCode questions I have solved
 | ------- |
 | [0036-valid-sudoku](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0146-lru-cache) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Backtracking
@@ -137,6 +138,7 @@ A collection of recent LeetCode questions I have solved
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -146,4 +148,12 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
