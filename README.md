@@ -62,6 +62,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0125-valid-palindrome) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -152,8 +153,17 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0146-lru-cache) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0146-lru-cache) |
+## Depth-First Search
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
