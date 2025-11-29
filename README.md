@@ -161,6 +161,7 @@ A collection of recent LeetCode questions I have solved
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
 ## Trie
@@ -170,6 +171,7 @@ A collection of recent LeetCode questions I have solved
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -178,5 +180,6 @@ A collection of recent LeetCode questions I have solved
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
