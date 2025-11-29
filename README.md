@@ -162,8 +162,21 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
 ## Trie
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
