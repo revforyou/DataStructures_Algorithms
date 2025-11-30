@@ -164,6 +164,7 @@ A collection of recent LeetCode questions I have solved
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -176,6 +177,7 @@ A collection of recent LeetCode questions I have solved
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
@@ -188,6 +190,7 @@ A collection of recent LeetCode questions I have solved
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
@@ -200,4 +203,8 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
