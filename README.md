@@ -168,6 +168,7 @@ A collection of recent LeetCode questions I have solved
 | [0110-balanced-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## Trie
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of recent LeetCode questions I have solved
 | [0100-same-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -189,4 +191,13 @@ A collection of recent LeetCode questions I have solved
 | [0100-same-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
