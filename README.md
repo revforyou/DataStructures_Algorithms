@@ -169,6 +169,7 @@ A collection of recent LeetCode questions I have solved
 | [0110-balanced-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Trie
@@ -182,6 +183,7 @@ A collection of recent LeetCode questions I have solved
 | [0100-same-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -197,6 +199,7 @@ A collection of recent LeetCode questions I have solved
 | [0100-same-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
@@ -211,4 +214,5 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
