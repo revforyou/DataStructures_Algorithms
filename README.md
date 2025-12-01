@@ -19,6 +19,7 @@ A collection of recent LeetCode questions I have solved
 | [0011-container-with-most-water](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0128-longest-consecutive-sequence) |
@@ -96,6 +97,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0051-n-queens) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Counting
