@@ -64,6 +64,7 @@ A collection of recent LeetCode questions I have solved
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0125-valid-palindrome) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -94,6 +95,7 @@ A collection of recent LeetCode questions I have solved
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0051-n-queens) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Counting
@@ -118,6 +120,7 @@ A collection of recent LeetCode questions I have solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0022-generate-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Greedy
