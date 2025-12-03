@@ -29,6 +29,7 @@ A collection of recent LeetCode questions I have solved
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1046-last-stone-weight) |
 | [1590-make-sum-divisible-by-p](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -248,6 +249,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
