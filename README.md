@@ -185,6 +185,7 @@ A collection of recent LeetCode questions I have solved
 | [0100-same-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
@@ -201,6 +202,7 @@ A collection of recent LeetCode questions I have solved
 | [0098-validate-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0572-subtree-of-another-tree) |
@@ -211,6 +213,7 @@ A collection of recent LeetCode questions I have solved
 | ------- |
 | [0100-same-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0994-rotting-oranges) |
@@ -221,6 +224,7 @@ A collection of recent LeetCode questions I have solved
 | [0098-validate-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0572-subtree-of-another-tree) |
