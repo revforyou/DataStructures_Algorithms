@@ -18,6 +18,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0046-permutations) |
@@ -76,6 +77,7 @@ A collection of recent LeetCode questions I have solved
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0125-valid-palindrome) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -202,6 +204,7 @@ A collection of recent LeetCode questions I have solved
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Tree
 |  |
