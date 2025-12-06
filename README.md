@@ -23,6 +23,7 @@ A collection of recent LeetCode questions I have solved
 | [0046-permutations](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -59,6 +60,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0015-3sum](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0148-sort-list) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -152,6 +154,7 @@ A collection of recent LeetCode questions I have solved
 | ------- |
 | [0011-container-with-most-water](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
