@@ -7,6 +7,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
