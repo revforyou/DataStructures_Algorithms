@@ -24,6 +24,7 @@ A collection of recent LeetCode questions I have solved
 | [0036-valid-sudoku](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0051-n-queens) |
+| [0057-insert-interval](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0128-longest-consecutive-sequence) |
