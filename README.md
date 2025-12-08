@@ -9,6 +9,7 @@ A collection of recent LeetCode questions I have solved
 | [0007-reverse-integer](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -33,6 +34,7 @@ A collection of recent LeetCode questions I have solved
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0704-binary-search) |
+| [0973-k-closest-points-to-origin](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1046-last-stone-weight) |
 | [1590-make-sum-divisible-by-p](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1590-make-sum-divisible-by-p) |
@@ -65,6 +67,7 @@ A collection of recent LeetCode questions I have solved
 | [0015-3sum](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0148-sort-list) |
+| [0973-k-closest-points-to-origin](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Prefix Sum
@@ -175,6 +178,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0148-sort-list) |
+| [0973-k-closest-points-to-origin](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -268,6 +272,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
@@ -281,4 +286,12 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
