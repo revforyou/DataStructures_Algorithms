@@ -43,6 +43,7 @@ A collection of recent LeetCode questions I have solved
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3583-count-special-triplets](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3583-count-special-triplets) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -111,6 +112,7 @@ A collection of recent LeetCode questions I have solved
 | [1015-smallest-integer-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1590-make-sum-divisible-by-p) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3583-count-special-triplets](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3583-count-special-triplets) |
 ## Backtracking
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3583-count-special-triplets](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3583-count-special-triplets) |
 ## Enumeration
 |  |
 | ------- |
