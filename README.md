@@ -14,6 +14,7 @@ A collection of recent LeetCode questions I have solved
 | [2174-next-greater-numerically-balanced-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -43,6 +44,7 @@ A collection of recent LeetCode questions I have solved
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -72,6 +74,7 @@ A collection of recent LeetCode questions I have solved
 | [0088-merge-sorted-array](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0148-sort-list) |
 | [0973-k-closest-points-to-origin](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [3433-count-mentions-per-user](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3531-count-covered-buildings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -97,6 +100,7 @@ A collection of recent LeetCode questions I have solved
 ## Simulation
 |  |
 | ------- |
+| [3433-count-mentions-per-user](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
