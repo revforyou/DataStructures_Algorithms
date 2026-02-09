@@ -171,6 +171,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0011-container-with-most-water) |
+| [1382-balance-a-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Union Find
 |  |
@@ -200,6 +201,7 @@ A collection of recent LeetCode questions I have solved
 | ------- |
 | [0148-sort-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0148-sort-list) |
 | [0973-k-closest-points-to-origin](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of recent LeetCode questions I have solved
 | [0226-invert-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Trie
 |  |
@@ -244,6 +247,7 @@ A collection of recent LeetCode questions I have solved
 | [0230-kth-smallest-element-in-a-bst](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1382-balance-a-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -266,6 +270,7 @@ A collection of recent LeetCode questions I have solved
 | [0230-kth-smallest-element-in-a-bst](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1382-balance-a-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -281,6 +286,7 @@ A collection of recent LeetCode questions I have solved
 | [0098-validate-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1382-balance-a-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 ## Graph
 |  |
 | ------- |
