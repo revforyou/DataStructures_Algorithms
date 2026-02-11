@@ -55,6 +55,7 @@ A collection of recent LeetCode questions I have solved
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of recent LeetCode questions I have solved
 | [3616-make-array-elements-equal-to-zero](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of recent LeetCode questions I have solved
 | [2174-next-greater-numerically-balanced-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3531-count-covered-buildings](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3583-count-special-triplets) |
+| [3721-longest-balanced-subarray-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of recent LeetCode questions I have solved
 | [0148-sort-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0148-sort-list) |
 | [0973-k-closest-points-to-origin](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+| [3721-longest-balanced-subarray-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -325,4 +329,8 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Segment Tree
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
