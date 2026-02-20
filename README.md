@@ -78,6 +78,7 @@ A collection of recent LeetCode questions I have solved
 | [0015-3sum](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0148-sort-list) |
+| [0761-special-binary-string](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0761-special-binary-string) |
 | [0973-k-closest-points-to-origin](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [3433-count-mentions-per-user](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3531-count-covered-buildings) |
@@ -101,6 +102,7 @@ A collection of recent LeetCode questions I have solved
 | [0022-generate-parentheses](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0125-valid-palindrome) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0761-special-binary-string](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0761-special-binary-string) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -203,6 +205,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0148-sort-list) |
+| [0761-special-binary-string](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0761-special-binary-string) |
 | [0973-k-closest-points-to-origin](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [3721-longest-balanced-subarray-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
