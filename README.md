@@ -162,6 +162,7 @@ A collection of recent LeetCode questions I have solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0868-binary-gap](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0868-binary-gap) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
