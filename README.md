@@ -104,12 +104,14 @@ A collection of recent LeetCode questions I have solved
 | [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0761-special-binary-string](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0761-special-binary-string) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3433-count-mentions-per-user](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -163,6 +165,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0868-binary-gap](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0868-binary-gap) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
