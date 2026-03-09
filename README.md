@@ -89,6 +89,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1590-make-sum-divisible-by-p) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -174,6 +175,7 @@ A collection of recent LeetCode questions I have solved
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Greedy
