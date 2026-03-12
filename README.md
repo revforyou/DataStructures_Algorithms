@@ -63,6 +63,7 @@ A collection of recent LeetCode questions I have solved
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0704-binary-search) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Sliding Window
@@ -185,6 +186,7 @@ A collection of recent LeetCode questions I have solved
 | [0011-container-with-most-water](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union Find
 |  |
 | ------- |
@@ -343,4 +345,16 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [3721-longest-balanced-subarray-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
