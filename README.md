@@ -35,6 +35,7 @@ A collection of recent LeetCode questions I have solved
 | [0150-evaluate-reverse-polish-notation](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0704-binary-search) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0973-k-closest-points-to-origin](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0973-k-closest-points-to-origin) |
@@ -62,6 +63,7 @@ A collection of recent LeetCode questions I have solved
 | [0074-search-a-2d-matrix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0704-binary-search) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -166,6 +168,7 @@ A collection of recent LeetCode questions I have solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0868-binary-gap](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1009-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -201,6 +204,7 @@ A collection of recent LeetCode questions I have solved
 | [0125-valid-palindrome](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
