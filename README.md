@@ -45,6 +45,7 @@ A collection of recent LeetCode questions I have solved
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3531-count-covered-buildings) |
@@ -111,6 +112,7 @@ A collection of recent LeetCode questions I have solved
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -137,6 +139,7 @@ A collection of recent LeetCode questions I have solved
 | [1015-smallest-integer-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1590-make-sum-divisible-by-p) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3531-count-covered-buildings](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3583-count-special-triplets) |
 | [3721-longest-balanced-subarray-ii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
@@ -256,6 +259,7 @@ A collection of recent LeetCode questions I have solved
 | ------- |
 | [0014-longest-common-prefix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Tree
 |  |
 | ------- |
