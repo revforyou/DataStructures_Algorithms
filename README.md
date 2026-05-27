@@ -25,6 +25,7 @@ A collection of recent LeetCode questions I have solved
 | [0014-longest-common-prefix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0057-insert-interval) |
@@ -180,6 +181,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -203,6 +205,7 @@ A collection of recent LeetCode questions I have solved
 | ------- |
 | [0011-container-with-most-water](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0148-sort-list) |
@@ -211,6 +214,7 @@ A collection of recent LeetCode questions I have solved
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
 |  |
@@ -365,4 +369,8 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/revforyou/DataStructures_Algorithms/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
