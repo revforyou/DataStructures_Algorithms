@@ -27,6 +27,7 @@ A collection of recent LeetCode questions I have solved
 | [0036-valid-sudoku](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0074-search-a-2d-matrix) |
@@ -81,6 +82,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0015-3sum](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0148-sort-list) |
 | [0761-special-binary-string](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0761-special-binary-string) |
@@ -106,6 +108,7 @@ A collection of recent LeetCode questions I have solved
 | ------- |
 | [0014-longest-common-prefix](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0125-valid-palindrome) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0761-special-binary-string](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0761-special-binary-string) |
@@ -135,6 +138,7 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0146-lru-cache) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/revforyou/DataStructures_Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
