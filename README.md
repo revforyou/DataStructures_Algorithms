@@ -39,6 +39,7 @@ A collection of recent LeetCode questions I have solved
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0739-daily-temperatures) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0973-k-closest-points-to-origin](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0994-rotting-oranges) |
@@ -225,6 +226,7 @@ A collection of recent LeetCode questions I have solved
 | ------- |
 | [0042-trapping-rain-water](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -382,4 +384,5 @@ A collection of recent LeetCode questions I have solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
