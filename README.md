@@ -232,6 +232,7 @@ A collection of recent LeetCode questions I have solved
 | ------- |
 | [0146-lru-cache](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -385,4 +386,8 @@ A collection of recent LeetCode questions I have solved
 | ------- |
 | [0042-trapping-rain-water](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0739-daily-temperatures) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/revforyou/DataStructures_Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
